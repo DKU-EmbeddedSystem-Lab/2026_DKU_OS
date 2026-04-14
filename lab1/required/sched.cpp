@@ -4,7 +4,7 @@
  *	    Student id : 32213679
  *	    Student name : 이현서
     *	Date : 2026.04.15
-        Contents : FCFS, SPN, RR, Feedback scheduler implementation
+        Contents : FCFS, SPN, RR, Feedback scheduler 
  */
 
 #include <string>
@@ -296,7 +296,7 @@ public:
             } 
 
             // context swtich 시간 추가
-            if (last_job_name_ != 0 && last_job_name_ != current_job_.name) {
+            if (last_job_name_ != 0) {
                 current_time_ += switch_time_;
             }
         

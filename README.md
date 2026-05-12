@@ -50,10 +50,10 @@ The Hash Table supports Insert, Lookup, Remove, and Traversal operations, and is
   - Deadline: **2026.05.13 23:59**
 - Class 2
   - [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeXGjIOapNwTa3mwGnwTdvNOYtlIIbWgsF-SuizxGTFE7wTCw/viewform?usp=header)
-  - Deadline: **2026.05.13 23:59**
+  - Deadline: **2026.05.18 23:59**
 - Class 3
   - [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScPxDw6rQKl-lwNcjlOT2ftnuFA9xsQGrz_CPjsliFZ4h-S-g/viewform?usp=header)
-  - Deadline: **2026.05.13 23:59**
+  - Deadline: **2026.05.18 23:59**
  
 **Notice**
 <span style="color:red">

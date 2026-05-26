@@ -63,3 +63,13 @@ Do not assume your code is correct just because tests pass—always check if you
  
 ## Lab3
 This project introduces digital forensic analysis of the ext4 file system by tracing file metadata, inodes, extents, and data blocks.
+- [Lab3 Document](https://github.com/DKU-EmbeddedSystem-Lab/2026_DKU_OS/blob/main/2026_Lab%202.%20Data%20Concurrency.pdf)
+- Class 1
+  - [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfYZPIiQ1ndwxkQIWtCh0eoAj1UOVymMjoCuJEeR0QZB6NZzA/viewform?usp=dialog)
+  - Deadline: **2026.06.10 23:59**
+- Class 2
+  - [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScNt_HAp-2n1N63_HnFeUheXR65QXF5RrWuMeiIhfBF1E6UJg/viewform?usp=dialog)
+  - Deadline: **2026.06.12 23:59**
+- Class 3
+  - [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScM6cp3Mw2aZ-oxinrjoSvI0gUOdbdbYmuMGTvLUBCHRQoesw/viewform?usp=dialog)
+  - Deadline: **2026.06.12 23:59**

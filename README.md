@@ -69,7 +69,7 @@ This project introduces digital forensic analysis of the ext4 file system by tra
   - Deadline: **2026.06.10 23:59**
 - Class 2
   - [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScNt_HAp-2n1N63_HnFeUheXR65QXF5RrWuMeiIhfBF1E6UJg/viewform?usp=dialog)
-  - Deadline: **2026.06.12 23:59**
+  - Deadline: **2026.06.15 23:59**
 - Class 3
   - [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScM6cp3Mw2aZ-oxinrjoSvI0gUOdbdbYmuMGTvLUBCHRQoesw/viewform?usp=dialog)
-  - Deadline: **2026.06.12 23:59**
+  - Deadline: **2026.06.15 23:59**
